@@ -1,0 +1,33 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Mon Jul 31 15:54:49 2023
+[*]
+[dumpfile] "D:\_2022\cnn_hardware_acclerator_for_fpga\cnn_accelerator_on_fpga\sim\accelerator_tb.fst"
+[savefile] "D:\_2022\cnn_hardware_acclerator_for_fpga\cnn_accelerator_on_fpga\sim\accelerator_tb.gtkw"
+[timestart] 804500
+[size] 1536 793
+[pos] -61 -61
+*-14.332304 869700 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] accelerator_tb.
+[treeopen] accelerator_tb.uut.
+[sst_width] 211
+[signals_width] 158
+[sst_expanded] 1
+[sst_vpaned_height] 222
+@28
+accelerator_tb.uut.clk
+accelerator_tb.uut.ce
+@22
+accelerator_tb.uut.weights[143:0]
+@28
+accelerator_tb.uut.global_rst
+@22
+accelerator_tb.uut.activation[15:0]
+@28
+accelerator_tb.uut.end_op
+@29
+accelerator_tb.uut.data_out[15:0]
+@28
+accelerator_tb.uut.valid_op
+[pattern_trace] 1
+[pattern_trace] 0

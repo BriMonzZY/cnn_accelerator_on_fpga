@@ -1,0 +1,38 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Sun Jul 23 13:31:27 2023
+[*]
+[dumpfile] "D:\_2022\cnn_hardware_acclerator_for_fpga\cnn_accelerator_on_fpga\sim\sim_files\convolver_tb.fst"
+[dumpfile_mtime] "Sun Jul 23 13:30:28 2023"
+[dumpfile_size] 10550
+[savefile] "D:\_2022\cnn_hardware_acclerator_for_fpga\cnn_accelerator_on_fpga\sim\sim_files\convolver_tb.gtkw"
+[timestart] 0
+[size] 1536 793
+[pos] -61 -61
+*-17.468845 110600 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] convolver_tb.
+[sst_width] 211
+[signals_width] 176
+[sst_expanded] 1
+[sst_vpaned_height] 461
+@28
+convolver_tb.clk
+convolver_tb.ce
+convolver_tb.global_rst
+@23
+convolver_tb.weights[399:0]
+@24
+convolver_tb.activation[15:0]
+convolver_tb.conv_op[31:0]
+@28
+convolver_tb.end_conv
+convolver_tb.valid_conv
+convolver_tb.uut.en1
+convolver_tb.uut.en2
+convolver_tb.uut.en3
+@24
+convolver_tb.uut.count[31:0]
+convolver_tb.uut.count2[31:0]
+convolver_tb.uut.count3[31:0]
+[pattern_trace] 1
+[pattern_trace] 0
